@@ -1,0 +1,13 @@
+export const REGISTER_SUCCESS = 'REGISTER_SUCCESS';
+export const REGISTER_FAIL = 'REGISTER_FAIL';
+export const USER_LOADED = 'USER_LOADED';
+export const AUTH_ERROR = 'AUTH_ERROR';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_FAIL = 'LOGIN_FAIL';
+export const LOGOUT = 'LOGOUT';
+export const GET_TEXTREELS = 'GET_TEXTREELS';
+export const TEXTREEL_ERROR = 'TEXTREEL_ERROR';
+export const ADD_TEXTREEL = 'ADD_TEXTREEL';
+export const DELETE_TEXTREEL = 'DELETE_TEXTREEL';
+export const LIKE_TEXTREEL = 'LIKE_TEXTREEL';
+export const UNLIKE_TEXTREEL = 'UNLIKE_TEXTREEL';
